@@ -19,9 +19,9 @@ app.get('/', (req, res) => {
             </style>
         </head>
         <body>
-            <h1>My CI/CD Automated Full-Stack App!</h1>
+            <h1>I just updated my live app via CI/CD</h1>
             <p class="status">Status: Live and deployment is fully automated!</p>
-            <p class="version">Version: 1.0.0</p>
+            <p class="version">Version: 1.0.1</p>
         </body>
         </html>
     `);
