@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
         <body>
             <h1>I just updated my live app via CI/CD</h1>
             <p class="status">Status: Live and deployment is fully automated!</p>
-            <p class="version">Version: 1.0.1</p>
+            <p class="version">Version: 1.0.2</p>
         </body>
         </html>
     `);
